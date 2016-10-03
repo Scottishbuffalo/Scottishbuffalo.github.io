@@ -1,30 +1,30 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
+baseurl: "blog" # the subpath of your site, e.g. /blog/ (optional)
 url: "http://www.your-domain.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Mike MacAdam # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Modern Developer</h1>
+     <p>I'm currently enrolled at Bloc, leanring Javascript, JQuery, HTML, CSS, and more!.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: mikemacadam87@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: scottishbuffalo # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram:
   linkedin:  # Full URL
